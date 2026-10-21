@@ -1,0 +1,20 @@
+CL BOUTIQUE — SITE COMPLETO EDITÁVEL
+
+ARQUIVOS
+- index.html: site inteiro, com design responsivo, filtros por categoria e botões de pedido para WhatsApp.
+- images/: todas as imagens anteriores e as 5 imagens novas que você enviou.
+
+COMO EDITAR OS PREÇOS
+1. Abra index.html em um editor de texto (por exemplo, VS Code ou Bloco de Notas).
+2. Procure pelo nome do produto e pela parte `Preço: <b>R$ 0,00</b>`.
+3. Troque apenas `R$ 0,00` pelo preço correto, por exemplo `R$ 39,90`.
+4. Salve o arquivo. Não mude os nomes dos arquivos da pasta images.
+
+Os valores estão zerados intencionalmente para você preencher com seus preços reais.
+Os títulos das cinco novas fotos estão como nomes provisórios (“novidade 1”, etc.); você pode editar os títulos no index.html para corresponder exatamente a cada foto.
+
+WHATSAPP
+O botão de pedido abre conversa com o número 55 85 99865-2662 e já inclui o nome do produto.
+
+PUBLICAR
+Extraia o ZIP e envie a pasta toda para uma hospedagem estática. Mantenha index.html e a pasta images juntos.
